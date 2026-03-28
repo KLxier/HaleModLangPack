@@ -93,5 +93,9 @@
   "title.config.betterend.generator.structure.has_portal": "生成传送门",
   "title.config.betterend.generator.structure.replace_pillars": "使用 BetterEnd 风格柱",
   "title.config.betterend.generator.structure.replace_portal": "使用 BetterEnd 风格传送门",
-  "title.config.group.betterend.generator": "末地生成器"
+  "title.config.group.betterend.generator": "末地生成器",
+  "jukebox_song.betterend.strange_and_alien": "陌生与异域",
+  "jukebox_song.betterend.grasping_at_stars": "抓住星星",
+  "jukebox_song.betterend.eo_dracona": "龙之终焉",
+  "jukebox_song.betterend.endseeker": "末地寻求者"
 }
